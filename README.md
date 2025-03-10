@@ -1,6 +1,8 @@
 # TIC-80_Contacts
 Contacts program, like on your phone to store telephone numbers on TIC-80.
 
+![](https://github.com/Emre3Ayar/TIC-80_Contacts/clip0001.gif)
+
 Tic 80 Contacts:
 
 INFO ABOUT THE PROGRAM
